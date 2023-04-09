@@ -31,8 +31,8 @@ Apply following filters to the image for sharpening: Laplacian kernel Laplacian 
 ## Program:
 ### Developed By   :Vishranthi A
 ### Register Number:212221230124
-</br>
-### Importing libraries:
+
+#### Importing libraries:
 ```
 import cv2
 import numpy as np
